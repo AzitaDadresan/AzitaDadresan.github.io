@@ -9,3 +9,5 @@ Start a local web server in python using the command
 after `cd` to the folder containing `index.html`.
 
 The visualization can be accessed in `localhost:8000`
+
+This is the link to show the visualization. https://azitadadresan.github.io/dadresan_visualization/
